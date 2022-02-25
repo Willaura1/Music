@@ -1,0 +1,195 @@
+{"version": "https://jsonfeed.org/version/1",
+ "title": "My Music",
+ "home_page_url": "https://music.younes.cf/",
+ "feed_url": "https://music.younes.cf/feed.json",
+ "description": "My Super Music Tracks.",
+ "user_comment": "My Super Music Tracks.",
+ "icon": "https://music.younes.cf/apple-touch-icon-precomposed.png",
+ "favicon": "https://music.younes.cf/favicon.ico",
+ "expired": false,
+ "author": {
+   "name": "yanobenel",
+   "url": "https://younes.cf"
+ },
+ "items": [
+   {"id": "601f8e4e",
+    "title": "Wavy (Interlude)",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  11th Song Of SZA Awesome Album (Ctrl)  Finally Things Are Back On Track.",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/Wavy.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/BrokenClocks_Cover.png\",\"title\":\"Wavy (Interlude)\",\"subtitle\":\"Back On Track .\",\"url\":\"https://music.younes.cf/2022/01/02/Wavy.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>11th Song Of SZA Awesome Album (Ctrl)</li>  <li>Finally Things Are Back On Track.</li></ul>",
+    "url": "https://music.younes.cf/2022/01/02/Wavy.html",
+    "date_published": "2022-01-02T00:00:00+01:00",
+    "date_modified": "2022-01-02T00:00:00+01:00",
+    "author": {
+      "name": "SZA"
+    }
+  },
+   {"id": "41669e10",
+    "title": "Broken Clocks",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  9th Song Of SZA Awesome Album (Ctrl)  Better day then yesterday.",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/BrokenClocks.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/BrokenClocks_Cover.png\",\"title\":\"Broken Clocks\",\"subtitle\":\"When To Move On ?\",\"url\":\"https://music.younes.cf/2021/12/14/BrokenClocks.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>9th Song Of SZA Awesome Album (Ctrl)</li>  <li>Better day then yesterday.</li></ul>",
+    "url": "https://music.younes.cf/2021/12/14/BrokenClocks.html",
+    "date_published": "2021-12-14T00:00:00+01:00",
+    "date_modified": "2021-12-14T00:00:00+01:00",
+    "author": {
+      "name": "SZA"
+    }
+  },
+   {"id": "7932d345",
+    "title": "The Forever Oblivion",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Oblivion Forever Awesome Remix (Magdalena Bay)  A song that feels like walking with ur love in a dark night.",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/OblivionForever.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/OblivionForever.jpg\",\"title\":\"The Forever Oblivion\",\"subtitle\":\"Where's My Love ?\",\"url\":\"https://music.younes.cf/2021/08/07/OblivionForver.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Oblivion Forever Awesome Remix (Magdalena Bay)</li>  <li>A song that feels like walking with ur love in a dark night.</li></ul>",
+    "url": "https://music.younes.cf/2021/08/07/OblivionForver.html",
+    "date_published": "2021-08-07T00:00:00+01:00",
+    "date_modified": "2021-08-07T00:00:00+01:00",
+    "author": {
+      "name": "Grimes, Magdalena Bay"
+    }
+  },
+   {"id": "8004dc4b",
+    "title": "The Oblivion",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Oblivion Track 03 Album Visions (Grimes)  A song for empowering myself physically amongst a masculine power, and the hate of feeling powerless, making light of masculine physical power.",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/Oblivion.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/Oblivion.png\",\"title\":\"The Oblivion\",\"subtitle\":\"The reason i'm in oblivion\",\"url\":\"https://music.younes.cf/2021/08/07/Oblivion.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Oblivion Track 03 Album Visions (Grimes)</li>  <li>A song for empowering myself physically amongst a masculine power, and the hate of feeling powerless, making light of masculine physical power.</li></ul>",
+    "url": "https://music.younes.cf/2021/08/07/Oblivion.html",
+    "date_published": "2021-08-07T00:00:00+01:00",
+    "date_modified": "2021-08-07T00:00:00+01:00",
+    "author": {
+      "name": "Grimes"
+    }
+  },
+   {"id": "3ad437f8",
+    "title": "Genesis",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Genesis Track 02 Album Visions (Grimes)  A song that makes you feel you are far away.",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/Genesis.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/Genesis.jpg\",\"title\":\"Genesis\",\"subtitle\":\"The Hot Girl I Want\",\"url\":\"https://music.younes.cf/2021/08/07/Genesis.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Genesis Track 02 Album Visions (Grimes)</li>  <li>A song that makes you feel you are far away.</li></ul>",
+    "url": "https://music.younes.cf/2021/08/07/Genesis.html",
+    "date_published": "2021-08-07T00:00:00+01:00",
+    "date_modified": "2021-08-07T00:00:00+01:00",
+    "author": {
+      "name": "Grimes"
+    }
+  },
+   {"id": "2246053a",
+    "title": "Instant Crush",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Instant Crush Track 05 Album Random Access Memories (Daft Punk)  A Peaceful Song That Makes You Want To Kiss And Cry",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/InstantCrush.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/InstantCrush.jpg\",\"title\":\"Instant Crush\",\"subtitle\":\"The Instant Crush Of My Heart\",\"url\":\"https://music.younes.cf/2021/04/15/Instant-Crush.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Instant Crush Track 05 Album Random Access Memories (Daft Punk)</li>  <li>A Peaceful Song That Makes You Want To Kiss And Cry</li></ul>",
+    "url": "https://music.younes.cf/2021/04/15/Instant-Crush.html",
+    "date_published": "2021-04-15T00:00:00+00:00",
+    "date_modified": "2021-04-15T00:00:00+00:00",
+    "author": {
+      "name": "Daft Punk, Julian Casablancas"
+    }
+  },
+   {"id": "0620cfdf",
+    "title": "Monster Grain",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Monster OST Anime Starting Theme  The Best Starting Song Ever",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/Grain.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/Monster.jpeg\",\"title\":\"Monster Grain\",\"subtitle\":\"Monster OST.\",\"url\":\"https://music.younes.cf/2021/01/24/Monster-Grain.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Monster OST Anime Starting Theme</li>  <li>The Best Starting Song Ever</li></ul>",
+    "url": "https://music.younes.cf/2021/01/24/Monster-Grain.html",
+    "date_published": "2021-01-24T00:00:00+01:00",
+    "date_modified": "2021-01-24T00:00:00+01:00",
+    "author": {
+      "name": "Naoki Urasawa"
+    }
+  },
+   {"id": "c52cf3dd",
+    "title": "The Imperial March",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  The Imperial March SoundTrack Album The Empire Strikes Back (Star Wars) By John Williams  The Dark Force Is Always With Me (Darth Vader)",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/The_Imperial_March.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/DarthVader.jpg\",\"title\":\"The Imperial March\",\"subtitle\":\"The Dark Force Is Always With Me.\",\"url\":\"https://music.younes.cf/2020/11/22/The-Imperial-March.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>The Imperial March SoundTrack Album The Empire Strikes Back (Star Wars) By John Williams</li>  <li>The Dark Force Is Always With Me (Darth Vader)</li></ul>",
+    "url": "https://music.younes.cf/2020/11/22/The-Imperial-March.html",
+    "date_published": "2020-11-22T00:00:00+01:00",
+    "date_modified": "2020-11-22T00:00:00+01:00",
+    "author": {
+      "name": "Younes B"
+    }
+  },
+   {"id": "7fcaa19b",
+    "title": "The Way",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  The Way SoundTrack By r2dr0dn (Ybenel)  Simulating Nintendo 90s PSG Sound Chips",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/TheWay.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/TheWay.png\",\"title\":\"The Way\",\"subtitle\":\"The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.\",\"url\":\"https://music.younes.cf/2020/11/18/TheWay.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>The Way SoundTrack By r2dr0dn (Ybenel)</li>  <li>Simulating Nintendo 90s PSG Sound Chips</li></ul>",
+    "url": "https://music.younes.cf/2020/11/18/TheWay.html",
+    "date_published": "2020-11-18T00:00:00+01:00",
+    "date_modified": "2020-11-18T00:00:00+01:00",
+    "author": {
+      "name": "Younes B"
+    }
+  },
+   {"id": "cfae0b61",
+    "title": "The Mandalorian",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  The Mandalorian SoundTrack By (Ludwig Göransson)",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/Mandalorian.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/Mandalorian.jpg\",\"title\":\"The Mandalorian\",\"subtitle\":\"The StarWars Franchise Never Dies!\",\"url\":\"https://music.younes.cf/2020/11/12/The-Mandalorian.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>The Mandalorian SoundTrack By (Ludwig Göransson)</li></ul>",
+    "url": "https://music.younes.cf/2020/11/12/The-Mandalorian.html",
+    "date_published": "2020-11-12T00:00:00+01:00",
+    "date_modified": "2020-11-12T00:00:00+01:00",
+    "author": {
+      "name": "Younes B"
+    }
+  },
+   {"id": "5df3d441",
+    "title": "Skins",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  This Is Likely The Most Best Intro Soooooo Unrealistic  Fits Perfectly As A Ringtone",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/Skins.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/Skins.jpg\",\"title\":\"Skins\",\"subtitle\":\"One Of The Best Tv Series Back Then\",\"url\":\"https://music.younes.cf/2020/06/27/Skins.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>This Is Likely The Most Best Intro Soooooo Unrealistic</li>  <li>Fits Perfectly As A Ringtone</li></ul>",
+    "url": "https://music.younes.cf/2020/06/27/Skins.html",
+    "date_published": "2020-06-27T00:00:00+01:00",
+    "date_modified": "2020-06-27T00:00:00+01:00",
+    "author": {
+      "name": "Younes B"
+    }
+  },
+   {"id": "59bd612e",
+    "title": "A Little Further",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Chaos Chaos ! Took Us To Make Either Worse Or Great Choices!",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/A_Little_Further.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/Response.jpg\",\"title\":\"A Little Further\",\"subtitle\":\"Steps That Leads Into Redemption\",\"url\":\"https://music.younes.cf/2020/01/05/A-Little-Further.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Chaos Chaos ! Took Us To Make Either Worse Or Great Choices!</li></ul>",
+    "url": "https://music.younes.cf/2020/01/05/A-Little-Further.html",
+    "date_published": "2020-01-05T00:00:00+01:00",
+    "date_modified": "2020-01-05T00:00:00+01:00",
+    "author": {
+      "name": "Younes B"
+    }
+  },
+   {"id": "cb582193",
+    "title": "Response",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  My Last Response  This Track Was Inspired From Extrawelt - 8000 (2006)",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/Response.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/A_Little_Further.jpg\",\"title\":\"Response\",\"subtitle\":\"The Last Response\",\"url\":\"https://music.younes.cf/2019/12/30/Response.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>My Last Response</li>  <li>This Track Was Inspired From Extrawelt - 8000 (2006)</li></ul>",
+    "url": "https://music.younes.cf/2019/12/30/Response.html",
+    "date_published": "2019-12-30T00:00:00+01:00",
+    "date_modified": "2019-12-30T00:00:00+01:00",
+    "author": {
+      "name": "Younes B"
+    }
+  },
+   {"id": "e24527e7",
+    "title": "AyamZaman",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Album Wa9tZman (Discontinued)3",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/AyamZaman.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/AyamZaman.jpg\",\"title\":\"AyamZaman\",\"subtitle\":\"AyamZaman Beat Album Wa9tZman\",\"url\":\"https://music.younes.cf/2019/12/05/AyamZaman.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Album Wa9tZman (Discontinued)3</li></ul>",
+    "url": "https://music.younes.cf/2019/12/05/AyamZaman.html",
+    "date_published": "2019-12-05T00:00:00+01:00",
+    "date_modified": "2019-12-05T00:00:00+01:00",
+    "author": {
+      "name": "Younes B"
+    }
+  },
+   {"id": "3eea31a3",
+    "title": "3310",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  3310 Instrumental Inspired From 3310 By (Madd)",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/3310.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/3310.jpg\",\"title\":\"3310\",\"subtitle\":\"Madd 3310 Instrumental by me\",\"url\":\"https://music.younes.cf/2019/10/25/3310.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>3310 Instrumental Inspired From 3310 By (Madd)</li></ul>",
+    "url": "https://music.younes.cf/2019/10/25/3310.html",
+    "date_published": "2019-10-25T00:00:00+01:00",
+    "date_modified": "2019-10-25T00:00:00+01:00",
+    "author": {
+      "name": "Younes B"
+    }
+  }]
+}

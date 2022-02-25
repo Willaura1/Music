@@ -1,0 +1,594 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>My Music</title>
+    <link>https://music.younes.cf</link>
+    <atom:link href="https://music.younes.cf/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://music.younes.cf/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://music.younes.cf/episodes2.mp3.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://music.younes.cf/episodes2.mp3.rss" rel="next" type="application/rss+xml" />
+    
+
+    <atom:link rel="alternate" href="https://music.younes.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://music.younes.cf/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <description>My Super Music Tracks.
+</description>
+    <lastBuildDate>Fri, 25 Feb 2022 21:33:14 +0100</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.23</generator>
+
+    <itunes:summary>My Super Music Tracks.
+</itunes:summary>
+    <itunes:author>yanobenel</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://music.younes.cf/img/logo.png" />
+    <itunes:owner>
+      <itunes:name>yanobenel</itunes:name>
+      <itunes:email>yanobenel@duck.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>yanobenel@duck.com (yanobenel)</managingEditor>
+    <copyright>CC BY 4.0</copyright>
+    <itunes:subtitle>Music Is What Made Me Who I Am Now :D</itunes:subtitle>
+    <itunes:keywords>electronic, techno, dance, club, music, magic, pop, R&B</itunes:keywords>
+    <image>
+      <title>My Music</title>
+      <url>https://music.younes.cf/img/logo.png</url>
+      <link>https://music.younes.cf</link>
+    </image>
+    
+    <itunes:category text="Technology" />
+    <item>
+            <title>Wavy (Interlude) - Back On Track .</title>
+            <link>https://music.younes.cf/2022/01/02/Wavy.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Wavy"/>
+            <comments>https://music.younes.cf/2022/01/02/Wavy.html#disqus_thread</comments>
+            <pubDate>Sun, 02 Jan 2022 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2022/01/02/Wavy.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>11th Song Of SZA Awesome Album (Ctrl)</li>
+  <li>Finally Things Are Back On Track.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>11th Song Of SZA Awesome Album (Ctrl)</li>
+  <li>Finally Things Are Back On Track.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/Wavy.mp3" 
+                         length="3342848" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Back On Track .</itunes:subtitle>
+            <itunes:summary>SZA - Wavy (Interlude)</itunes:summary>
+            <itunes:author>SZA</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>75.0</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/BrokenClocks_Cover.png" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/BrokenClocks_Cover.png</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
+            <title>Broken Clocks - When To Move On ?</title>
+            <link>https://music.younes.cf/2021/12/14/BrokenClocks.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/BrokenClocks"/>
+            <comments>https://music.younes.cf/2021/12/14/BrokenClocks.html#disqus_thread</comments>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2021/12/14/BrokenClocks.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>9th Song Of SZA Awesome Album (Ctrl)</li>
+  <li>Better day then yesterday.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>9th Song Of SZA Awesome Album (Ctrl)</li>
+  <li>Better day then yesterday.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/BrokenClocks.mp3" 
+                         length="9551360" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>When To Move On ?</itunes:subtitle>
+            <itunes:summary>SZA - Broken Clocks</itunes:summary>
+            <itunes:author>SZA</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>231.0</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/BrokenClocks_Cover.png" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/BrokenClocks_Cover.png</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
+            <title>The Forever Oblivion - Where's My Love ?</title>
+            <link>https://music.younes.cf/2021/08/07/OblivionForver.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/OblivionForver"/>
+            <comments>https://music.younes.cf/2021/08/07/OblivionForver.html#disqus_thread</comments>
+            <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2021/08/07/OblivionForver.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Oblivion Forever Awesome Remix (Magdalena Bay)</li>
+  <li>A song that feels like walking with ur love in a dark night.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Oblivion Forever Awesome Remix (Magdalena Bay)</li>
+  <li>A song that feels like walking with ur love in a dark night.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/OblivionForever.mp3" 
+                         length="1567901" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Where's My Love ?</itunes:subtitle>
+            <itunes:summary>Grimes - Oblivion Forver</itunes:summary>
+            <itunes:author>Grimes, Magdalena Bay</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>91.0</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/OblivionForever.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/OblivionForever.jpg</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
+            <title>The Oblivion - The reason i'm in oblivion</title>
+            <link>https://music.younes.cf/2021/08/07/Oblivion.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Oblivion"/>
+            <comments>https://music.younes.cf/2021/08/07/Oblivion.html#disqus_thread</comments>
+            <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2021/08/07/Oblivion.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Oblivion Track 03 Album Visions (Grimes)</li>
+  <li>A song for empowering myself physically amongst a masculine power, and the hate of feeling powerless, making light of masculine physical power.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Oblivion Track 03 Album Visions (Grimes)</li>
+  <li>A song for empowering myself physically amongst a masculine power, and the hate of feeling powerless, making light of masculine physical power.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/Oblivion.mp3" 
+                         length="10276710" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>The reason i'm in oblivion</itunes:subtitle>
+            <itunes:summary>Grimes - Oblivion</itunes:summary>
+            <itunes:author>Grimes</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>251.0</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/Oblivion.png" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/Oblivion.png</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
+            <title>Genesis - The Hot Girl I Want</title>
+            <link>https://music.younes.cf/2021/08/07/Genesis.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Genesis"/>
+            <comments>https://music.younes.cf/2021/08/07/Genesis.html#disqus_thread</comments>
+            <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2021/08/07/Genesis.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Genesis Track 02 Album Visions (Grimes)</li>
+  <li>A song that makes you feel you are far away.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Genesis Track 02 Album Visions (Grimes)</li>
+  <li>A song that makes you feel you are far away.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/Genesis.mp3" 
+                         length="10304734" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>The Hot Girl I Want</itunes:subtitle>
+            <itunes:summary>Grimes - Genesis</itunes:summary>
+            <itunes:author>Grimes</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>257.0</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/Genesis.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/Genesis.jpg</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
+            <title>Instant Crush - The Instant Crush Of My Heart</title>
+            <link>https://music.younes.cf/2021/04/15/Instant-Crush.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Instant-Crush"/>
+            <comments>https://music.younes.cf/2021/04/15/Instant-Crush.html#disqus_thread</comments>
+            <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2021/04/15/Instant-Crush.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Instant Crush Track 05 Album Random Access Memories (Daft Punk)</li>
+  <li>A Peaceful Song That Makes You Want To Kiss And Cry</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Instant Crush Track 05 Album Random Access Memories (Daft Punk)</li>
+  <li>A Peaceful Song That Makes You Want To Kiss And Cry</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/InstantCrush.mp3" 
+                         length="13637960" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>The Instant Crush Of My Heart</itunes:subtitle>
+            <itunes:summary>Daft Punk - Instant Crush</itunes:summary>
+            <itunes:author>Daft Punk, Julian Casablancas</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>340.0</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/InstantCrush.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/InstantCrush.jpg</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
+            <title>Monster Grain - Monster OST.</title>
+            <link>https://music.younes.cf/2021/01/24/Monster-Grain.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Monster-Grain"/>
+            <comments>https://music.younes.cf/2021/01/24/Monster-Grain.html#disqus_thread</comments>
+            <pubDate>Sun, 24 Jan 2021 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2021/01/24/Monster-Grain.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Monster OST Anime Starting Theme</li>
+  <li>The Best Starting Song Ever</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Monster OST Anime Starting Theme</li>
+  <li>The Best Starting Song Ever</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/Grain.mp3" 
+                         length="3467153" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Monster OST.</itunes:subtitle>
+            <itunes:summary>Monster OST Anime Starting Theme</itunes:summary>
+            <itunes:author>Naoki Urasawa</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>86.0</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/Monster.jpeg" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/Monster.jpeg</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
+            <title>The Imperial March - The Dark Force Is Always With Me.</title>
+            <link>https://music.younes.cf/2020/11/22/The-Imperial-March.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/The-Imperial-March"/>
+            <comments>https://music.younes.cf/2020/11/22/The-Imperial-March.html#disqus_thread</comments>
+            <pubDate>Sun, 22 Nov 2020 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2020/11/22/The-Imperial-March.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>The Imperial March SoundTrack Album The Empire Strikes Back (Star Wars) By John Williams</li>
+  <li>The Dark Force Is Always With Me (Darth Vader)</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>The Imperial March SoundTrack Album The Empire Strikes Back (Star Wars) By John Williams</li>
+  <li>The Dark Force Is Always With Me (Darth Vader)</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/The_Imperial_March.mp3" 
+                         length="7628407" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>The Dark Force Is Always With Me.</itunes:subtitle>
+            <itunes:summary>The Imperial March Album The Empire Strikes Back By John Williams</itunes:summary>
+            <itunes:author>Younes B</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>186.0</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/DarthVader.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/DarthVader.jpg</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
+            <title>The Way - The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.</title>
+            <link>https://music.younes.cf/2020/11/18/TheWay.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/TheWay"/>
+            <comments>https://music.younes.cf/2020/11/18/TheWay.html#disqus_thread</comments>
+            <pubDate>Wed, 18 Nov 2020 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2020/11/18/TheWay.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>The Way SoundTrack By r2dr0dn (Ybenel)</li>
+  <li>Simulating Nintendo 90s PSG Sound Chips</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>The Way SoundTrack By r2dr0dn (Ybenel)</li>
+  <li>Simulating Nintendo 90s PSG Sound Chips</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/TheWay.mp3" 
+                         length="7930544" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.</itunes:subtitle>
+            <itunes:summary>The Way SoundTrack By r2dr0dn</itunes:summary>
+            <itunes:author>Younes B</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>183.0</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/TheWay.png" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/TheWay.png</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
+            <title>The Mandalorian - The StarWars Franchise Never Dies!</title>
+            <link>https://music.younes.cf/2020/11/12/The-Mandalorian.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/The-Mandalorian"/>
+            <comments>https://music.younes.cf/2020/11/12/The-Mandalorian.html#disqus_thread</comments>
+            <pubDate>Thu, 12 Nov 2020 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2020/11/12/The-Mandalorian.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>The Mandalorian SoundTrack By (Ludwig Göransson)</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>The Mandalorian SoundTrack By (Ludwig Göransson)</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/Mandalorian.mp3" 
+                         length="9528702" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>The StarWars Franchise Never Dies!</itunes:subtitle>
+            <itunes:summary>The Mandalorian SoundTrack By Ludwig Göransson</itunes:summary>
+            <itunes:author>Younes B</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:19</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/Mandalorian.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/Mandalorian.jpg</url>
+                <link>https://music.younes.cf</link>
+              </image></item></channel>
+</rss>

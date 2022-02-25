@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>My Music</title>
+  <link href="https://music.younes.cf/general_feed.xml" rel="self"/>
+  <link href="https://music.younes.cf"/>
+  <updated>2022-02-25T21:33:14+01:00</updated>
+  <id>https://music.younes.cf/</id>
+  <author>
+    <name>yanobenel</name>
+    <email>yanobenel@duck.com</email>
+  </author>
+
+  
+    <entry>
+      <title>Wavy (Interlude)</title>
+      <link href="https://music.younes.cf/2022/01/02/Wavy.html"/>
+      <updated>2022-01-02T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2022/01/02/Wavy</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/Wavy.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/BrokenClocks_Cover.png&quot;,&quot;title&quot;:&quot;Wavy (Interlude)&quot;,&quot;subtitle&quot;:&quot;Back On Track .&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2022/01/02/Wavy.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;11th Song Of SZA Awesome Album (Ctrl)&lt;/li&gt;
+  &lt;li&gt;Finally Things Are Back On Track.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="3342848" 
+                href="https://music.younes.cf/episodes/Wavy.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Broken Clocks</title>
+      <link href="https://music.younes.cf/2021/12/14/BrokenClocks.html"/>
+      <updated>2021-12-14T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2021/12/14/BrokenClocks</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/BrokenClocks.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/BrokenClocks_Cover.png&quot;,&quot;title&quot;:&quot;Broken Clocks&quot;,&quot;subtitle&quot;:&quot;When To Move On ?&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2021/12/14/BrokenClocks.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;9th Song Of SZA Awesome Album (Ctrl)&lt;/li&gt;
+  &lt;li&gt;Better day then yesterday.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="9551360" 
+                href="https://music.younes.cf/episodes/BrokenClocks.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>The Forever Oblivion</title>
+      <link href="https://music.younes.cf/2021/08/07/OblivionForver.html"/>
+      <updated>2021-08-07T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2021/08/07/OblivionForver</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/OblivionForever.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/OblivionForever.jpg&quot;,&quot;title&quot;:&quot;The Forever Oblivion&quot;,&quot;subtitle&quot;:&quot;Where&apos;s My Love ?&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2021/08/07/OblivionForver.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Oblivion Forever Awesome Remix (Magdalena Bay)&lt;/li&gt;
+  &lt;li&gt;A song that feels like walking with ur love in a dark night.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="1567901" 
+                href="https://music.younes.cf/episodes/OblivionForever.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>The Oblivion</title>
+      <link href="https://music.younes.cf/2021/08/07/Oblivion.html"/>
+      <updated>2021-08-07T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2021/08/07/Oblivion</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/Oblivion.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/Oblivion.png&quot;,&quot;title&quot;:&quot;The Oblivion&quot;,&quot;subtitle&quot;:&quot;The reason i&apos;m in oblivion&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2021/08/07/Oblivion.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Oblivion Track 03 Album Visions (Grimes)&lt;/li&gt;
+  &lt;li&gt;A song for empowering myself physically amongst a masculine power, and the hate of feeling powerless, making light of masculine physical power.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="10276710" 
+                href="https://music.younes.cf/episodes/Oblivion.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Genesis</title>
+      <link href="https://music.younes.cf/2021/08/07/Genesis.html"/>
+      <updated>2021-08-07T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2021/08/07/Genesis</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/Genesis.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/Genesis.jpg&quot;,&quot;title&quot;:&quot;Genesis&quot;,&quot;subtitle&quot;:&quot;The Hot Girl I Want&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2021/08/07/Genesis.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Genesis Track 02 Album Visions (Grimes)&lt;/li&gt;
+  &lt;li&gt;A song that makes you feel you are far away.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="10304734" 
+                href="https://music.younes.cf/episodes/Genesis.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Instant Crush</title>
+      <link href="https://music.younes.cf/2021/04/15/Instant-Crush.html"/>
+      <updated>2021-04-15T00:00:00+00:00</updated>
+      <id>https://music.younes.cf/2021/04/15/Instant-Crush</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/InstantCrush.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/InstantCrush.jpg&quot;,&quot;title&quot;:&quot;Instant Crush&quot;,&quot;subtitle&quot;:&quot;The Instant Crush Of My Heart&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2021/04/15/Instant-Crush.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Instant Crush Track 05 Album Random Access Memories (Daft Punk)&lt;/li&gt;
+  &lt;li&gt;A Peaceful Song That Makes You Want To Kiss And Cry&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="13637960" 
+                href="https://music.younes.cf/episodes/InstantCrush.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Monster Grain</title>
+      <link href="https://music.younes.cf/2021/01/24/Monster-Grain.html"/>
+      <updated>2021-01-24T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2021/01/24/Monster-Grain</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/Grain.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/Monster.jpeg&quot;,&quot;title&quot;:&quot;Monster Grain&quot;,&quot;subtitle&quot;:&quot;Monster OST.&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2021/01/24/Monster-Grain.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Monster OST Anime Starting Theme&lt;/li&gt;
+  &lt;li&gt;The Best Starting Song Ever&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="3467153" 
+                href="https://music.younes.cf/episodes/Grain.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>The Imperial March</title>
+      <link href="https://music.younes.cf/2020/11/22/The-Imperial-March.html"/>
+      <updated>2020-11-22T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2020/11/22/The-Imperial-March</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/The_Imperial_March.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/DarthVader.jpg&quot;,&quot;title&quot;:&quot;The Imperial March&quot;,&quot;subtitle&quot;:&quot;The Dark Force Is Always With Me.&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2020/11/22/The-Imperial-March.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;The Imperial March SoundTrack Album The Empire Strikes Back (Star Wars) By John Williams&lt;/li&gt;
+  &lt;li&gt;The Dark Force Is Always With Me (Darth Vader)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="7628407" 
+                href="https://music.younes.cf/episodes/The_Imperial_March.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>The Way</title>
+      <link href="https://music.younes.cf/2020/11/18/TheWay.html"/>
+      <updated>2020-11-18T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2020/11/18/TheWay</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/TheWay.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/TheWay.png&quot;,&quot;title&quot;:&quot;The Way&quot;,&quot;subtitle&quot;:&quot;The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2020/11/18/TheWay.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;The Way SoundTrack By r2dr0dn (Ybenel)&lt;/li&gt;
+  &lt;li&gt;Simulating Nintendo 90s PSG Sound Chips&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="7930544" 
+                href="https://music.younes.cf/episodes/TheWay.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>The Mandalorian</title>
+      <link href="https://music.younes.cf/2020/11/12/The-Mandalorian.html"/>
+      <updated>2020-11-12T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2020/11/12/The-Mandalorian</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/Mandalorian.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/Mandalorian.jpg&quot;,&quot;title&quot;:&quot;The Mandalorian&quot;,&quot;subtitle&quot;:&quot;The StarWars Franchise Never Dies!&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2020/11/12/The-Mandalorian.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;The Mandalorian SoundTrack By (Ludwig Göransson)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="9528702" 
+                href="https://music.younes.cf/episodes/Mandalorian.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Skins</title>
+      <link href="https://music.younes.cf/2020/06/27/Skins.html"/>
+      <updated>2020-06-27T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2020/06/27/Skins</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/Skins.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/Skins.jpg&quot;,&quot;title&quot;:&quot;Skins&quot;,&quot;subtitle&quot;:&quot;One Of The Best Tv Series Back Then&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2020/06/27/Skins.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;This Is Likely The Most Best Intro Soooooo Unrealistic&lt;/li&gt;
+  &lt;li&gt;Fits Perfectly As A Ringtone&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="1366736" 
+                href="https://music.younes.cf/episodes/Skins.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>A Little Further</title>
+      <link href="https://music.younes.cf/2020/01/05/A-Little-Further.html"/>
+      <updated>2020-01-05T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2020/01/05/A-Little-Further</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/A_Little_Further.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/Response.jpg&quot;,&quot;title&quot;:&quot;A Little Further&quot;,&quot;subtitle&quot;:&quot;Steps That Leads Into Redemption&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2020/01/05/A-Little-Further.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Chaos Chaos ! Took Us To Make Either Worse Or Great Choices!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="10238894" 
+                href="https://music.younes.cf/episodes/A_Little_Further.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Response</title>
+      <link href="https://music.younes.cf/2019/12/30/Response.html"/>
+      <updated>2019-12-30T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2019/12/30/Response</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/Response.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/A_Little_Further.jpg&quot;,&quot;title&quot;:&quot;Response&quot;,&quot;subtitle&quot;:&quot;The Last Response&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2019/12/30/Response.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;My Last Response&lt;/li&gt;
+  &lt;li&gt;This Track Was Inspired From Extrawelt - 8000 (2006)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="6094959" 
+                href="https://music.younes.cf/episodes/Response.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>AyamZaman</title>
+      <link href="https://music.younes.cf/2019/12/05/AyamZaman.html"/>
+      <updated>2019-12-05T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2019/12/05/AyamZaman</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/AyamZaman.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/AyamZaman.jpg&quot;,&quot;title&quot;:&quot;AyamZaman&quot;,&quot;subtitle&quot;:&quot;AyamZaman Beat Album Wa9tZman&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2019/12/05/AyamZaman.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Album Wa9tZman (Discontinued)3&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="9253924" 
+                href="https://music.younes.cf/episodes/AyamZaman.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>3310</title>
+      <link href="https://music.younes.cf/2019/10/25/3310.html"/>
+      <updated>2019-10-25T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2019/10/25/3310</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/3310.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/3310.jpg&quot;,&quot;title&quot;:&quot;3310&quot;,&quot;subtitle&quot;:&quot;Madd 3310 Instrumental by me&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2019/10/25/3310.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;3310 Instrumental Inspired From 3310 By (Madd)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="9617756" 
+                href="https://music.younes.cf/episodes/3310.mp3"/>    
+        
+      
+      
+    </entry>
+  
+</feed>
