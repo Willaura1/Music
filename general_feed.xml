@@ -4,13 +4,50 @@
   <title>My Music</title>
   <link href="https://music.younes.cf/general_feed.xml" rel="self"/>
   <link href="https://music.younes.cf"/>
-  <updated>2022-02-25T21:33:14+01:00</updated>
+  <updated>2022-03-16T21:40:47+01:00</updated>
   <id>https://music.younes.cf/</id>
   <author>
     <name>yanobenel</name>
     <email>yanobenel@duck.com</email>
   </author>
 
+  
+    <entry>
+      <title>Dumb Age (My Edit)</title>
+      <link href="https://music.younes.cf/2022/03/07/DumpAge.html"/>
+      <updated>2022-03-07T00:00:00+01:00</updated>
+      <id>https://music.younes.cf/2022/03/07/DumpAge</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/DumbAge.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/DumbAge_cover.png&quot;,&quot;title&quot;:&quot;Dumb Age (My Edit)&quot;,&quot;subtitle&quot;:&quot;A Fabulous Touch.&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2022/03/07/DumpAge.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Remixed And Edited by Me :)&lt;/li&gt;
+  &lt;li&gt;12th Song Of Extrawelt Incredible Album (In Aufruhr)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="15306281" 
+                href="https://music.younes.cf/episodes/DumbAge.mp3"/>    
+        
+      
+      
+    </entry>
   
     <entry>
       <title>Wavy (Interlude)</title>

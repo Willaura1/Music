@@ -12,6 +12,18 @@
    "url": "https://younes.cf"
  },
  "items": [
+   {"id": "ca1668a9",
+    "title": "Dumb Age (My Edit)",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Remixed And Edited by Me :)  12th Song Of Extrawelt Incredible Album (In Aufruhr)",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- yanobenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.younes.cf/episodes/DumbAge.mp3\"},\"coverUrl\":\"https://music.younes.cf/img/DumbAge_cover.png\",\"title\":\"Dumb Age (My Edit)\",\"subtitle\":\"A Fabulous Touch.\",\"url\":\"https://music.younes.cf/2022/03/07/DumpAge.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Remixed And Edited by Me :)</li>  <li>12th Song Of Extrawelt Incredible Album (In Aufruhr)</li></ul>",
+    "url": "https://music.younes.cf/2022/03/07/DumpAge.html",
+    "date_published": "2022-03-07T00:00:00+01:00",
+    "date_modified": "2022-03-07T00:00:00+01:00",
+    "author": {
+      "name": "Extrawelt"
+    }
+  },
    {"id": "601f8e4e",
     "title": "Wavy (Interlude)",
     "summary": "",

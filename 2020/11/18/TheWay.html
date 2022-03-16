@@ -100,6 +100,8 @@
   
 
   
+
+  
     
 <section id="79cec216" class="active">
   <div class="page-header">
@@ -117,14 +119,24 @@
 </div>
 
 
-  <div id="example"></div>
-  <script type='text/javascript' src="https://music.younes.cf/cn_files/embed.js"></script>
+  <div id="example">
+    <root data-test="player--xl" style="max-width:950px;min-width:260px;background: #cdc9c9"> <div class="tablet:px-6 tablet:pt-6 mobile:px-4 mobile:pt-4 flex flex-col"> <div class="flex-col items-center mobile:flex tablet:hidden"> <show-title class="text-sm leading-tight"></show-title> <episode-title class="text-base text-center leading-tight mb-3"></episode-title> <subscribe-button class="mb-4 mobile:flex tablet:hidden"></subscribe-button> <poster class="rounded-sm w-48 shadow overflow-hidden"></poster> <divider class="w-full my-6"></divider> </div> <div class="tablet:flex flex-grow"> <div class="w-64 mobile:hidden tablet:block tablet:mr-6"> <poster class="rounded-sm shadow overflow-hidden"></poster> </div> <div class="w-full"> <div class="hidden tablet:block"> <show-title class="text-base leading-tight"></show-title> <episode-title class="text-xl desktop:text-2xl leading-tight"></episode-title> <divider class="w-full my-4"></divider> </div> <div class="flex items-center justify-between"> <div class="block"> <play-state on="active"> <speed-control class="flex items-center"></speed-control> </play-state> </div> <div class="flex"> <play-state on="active"> <chapter-previous class="mx-2 block"></chapter-previous> </play-state> <play-state on="active"> <step-backward class="mx-2 block"></step-backward> </play-state> <play-button class="mx-2 block"></play-button> <play-state on="active"> <step-forward class="mx-2 block"></step-forward> </play-state> <play-state on="active"> <chapter-next class="mx-2 block"></chapter-next> </play-state> </div> <div class="block"> <play-state on="active"> <volume-control class="flex items-center"></volume-control> </play-state> </div> </div> <div class="flex w-full"> <progress-bar></progress-bar> </div> <div class="flex w-full -mt-2"> <div class="w-3/12 text-left"> <timer-current class="text-sm"></timer-current> </div> <div class="w-6/12 text-center truncate"> <play-state on="active"> <current-chapter class="text-sm"></current-chapter> </play-state> </div> <div class="w-3/12 text-right"> <timer-duration class="text-sm"></timer-duration> </div> </div> </div> </div> <divider class="w-full mt-6 mb-3"></divider> <div class="flex justify-between"> <div class="flex mobile:w-full tablet:w-3/12 desktop:w-3/12 justify-between"> <tab-trigger tab="chapters"> <icon type="chapter"></icon> </tab-trigger> <tab-trigger tab="transcripts"> <icon type="transcripts"></icon> </tab-trigger> <tab-trigger tab="files"> <icon type="download"></icon> </tab-trigger> <tab-trigger tab="playlist"> <icon type="playlist"></icon> </tab-trigger> <tab-trigger tab="share"> <icon type="share"></icon> </tab-trigger> </div> <subscribe-button class="mt-1 mobile:hidden tablet:flex"></subscribe-button> </div> </div> <div class="w-full relative overflow-hidden"> <tab name="chapters"> <tab-chapters></tab-chapters> </tab> <tab name="transcripts"> <tab-transcripts></tab-transcripts> </tab> <tab name="files"> <tab-files></tab-files> </tab> <tab name="playlist"> <tab-playlist></tab-playlist> </tab> <tab name="share"> <tab-share></tab-share> </tab> <tab-overflow></tab-overflow> </div> <error></error>
+    </root>
+  </div>
+  <script type='text/javascript' src="https://music.younes.cf/cn_files/web-player/embed.js"></script>
+  <!-- <script src="https://cdn.podlove.org/web-player/5.x/embed.js"></script> -->
   <script>
     podlovePlayer("#example", {
+        "show": {
+            "title": "Younes B",
+            "subtitle": "The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.",
+            "summary": "The Way SoundTrack By r2dr0dn",
+            "poster": "https://music.younes.cf/img/TheWay.png",
+            "link": ""
+        },
         title: "The Way",
         subtitle: "The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.",
-        summary:
-            "The Way SoundTrack By r2dr0dn",
+        summary: "The Way SoundTrack By r2dr0dn",
         publicationDate: "2020/11/18T152.0+00:00",
         poster: "https://music.younes.cf/img/TheWay.png",
         duration: "183.0",
@@ -136,25 +148,27 @@
                 title: "Audio MP3",
             },
         ],
-        theme: {
-          main: "#293C48",
-          highlight: "#B54F4F",
-        },
-        visibleComponents: [
-          'tabInfo',
-          // 'tabChapters',
-          'tabFiles',
-          'tabAudio',
-          'tabShare',
-          'poster',
-          'showTitle',
-          'episodeTitle',
-          'subtitle',
-          'progressbar',
-          'controlSteppers',
-          // 'controlChapters'
-        ],
-        contributors: [
+      
+        <!-- theme: { -->
+        <!--   main: "#293C48", -->
+        <!--   highlight: "#B54F4F", -->
+        <!-- }, -->
+
+         <!-- visibleComponents: [ -->
+         <!--   'tabInfo', -->
+         <!--   // 'tabChapters', -->
+         <!--   'tabFiles', -->
+         <!--   'tabAudio', -->
+         <!--   'tabShare', -->
+         <!--   'poster', -->
+         <!--   'showTitle', -->
+         <!--   'episodeTitle', -->
+         <!--   'subtitle', -->
+         <!--   'progressbar', -->
+         <!--   'controlSteppers', -->
+         <!--   // 'controlChapters' -->
+         <!-- ], -->
+        "contributors": [
             {
                 name: "Younes B",
                 avatar: "https://music.younes.cf/img/logo.png",
@@ -163,6 +177,68 @@
                 comment: null,
             },
         ],
+    }, {
+    version: 5,
+    base: "/cn_files/web-player/",
+    theme: {
+      tokens: {
+        brand: "#293C48",
+        brandDark: "#293C48",
+        brandDarkest: "#1A3A4A",
+        brandLightest: "#E5EAECFF",
+        shadeDark: "#807E7C",
+        shadeBase: "#807E7C",
+        contrast: "#000",
+        alt: "#fff"
+      }
+    },
+    "subscribe-button": {
+        feed: "https://music.younes.cf/episodes.mp3.rss", // Rss feed
+        clients: [
+          {
+            id: "apple-podcasts",
+            service: "id1523714548" // https://podcasts.apple.com/podcast/[service]
+          },
+          {
+            id: "clementine"
+          },
+          {
+            id: "google-podcasts",
+            service: "https://music.younes.cf/episodes.mp3.rss" // feed
+          },
+          {
+            id: "gpodder"
+          },
+          {
+            id: "itunes"
+          },
+          {
+            id: "player-fm"
+          },
+          {
+            id: "soundcloud",
+            service: "ybenel", // https://soundcloud.com/[service]
+          },
+          {
+            id: "spotify",
+            service: "ybenel", // https://open.spotify.com/show/[service]
+          },
+          {
+            id: "rss"
+          }
+        ]
+    },
+    share: {
+      channels: [
+        "facebook",
+        "twitter",
+        "whats-app",
+        "mail",
+        "link"
+      ],
+      outlet: "/share.html",
+      sharePlaytime: true
+    },
     });
   </script>
   <!---

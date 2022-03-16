@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://music.younes.cf/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>My Super Music Tracks.
 </description>
-    <lastBuildDate>Fri, 25 Feb 2022 21:33:14 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 21:40:47 +0100</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -45,6 +45,57 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>The Mandalorian - The StarWars Franchise Never Dies!</title>
+            <link>https://music.younes.cf/2020/11/12/The-Mandalorian.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/The-Mandalorian"/>
+            <comments>https://music.younes.cf/2020/11/12/The-Mandalorian.html#disqus_thread</comments>
+            <pubDate>Thu, 12 Nov 2020 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.younes.cf/2020/11/12/The-Mandalorian.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>The Mandalorian SoundTrack By (Ludwig Göransson)</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>The Mandalorian SoundTrack By (Ludwig Göransson)</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.younes.cf/episodes/Mandalorian.mp3" 
+                         length="9528702" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>The StarWars Franchise Never Dies!</itunes:subtitle>
+            <itunes:summary>The Mandalorian SoundTrack By Ludwig Göransson</itunes:summary>
+            <itunes:author>Younes B</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:19</itunes:duration>
+            <itunes:image href="https://music.younes.cf/img/Mandalorian.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.younes.cf/img/Mandalorian.jpg</url>
+                <link>https://music.younes.cf</link>
+              </image></item><item>
             <title>Skins - One Of The Best Tv Series Back Then</title>
             <link>https://music.younes.cf/2020/06/27/Skins.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Skins"/>

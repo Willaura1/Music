@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://music.younes.cf/feed.xml" rel="self" type="application/atom+xml" /><link href="https://music.younes.cf/" rel="alternate" type="text/html" /><updated>2022-02-25T21:33:14+01:00</updated><id>https://music.younes.cf/feed.xml</id><title type="html">My Music</title><subtitle>My Super Music Tracks.</subtitle><author><name>yanobenel</name></author><entry><title type="html">Wavy (Interlude)</title><link href="https://music.younes.cf/2022/01/02/Wavy.html" rel="alternate" type="text/html" title="Wavy (Interlude)" /><published>2022-01-02T00:00:00+01:00</published><updated>2022-01-02T00:00:00+01:00</updated><id>https://music.younes.cf/2022/01/02/Wavy</id><content type="html" xml:base="https://music.younes.cf/2022/01/02/Wavy.html">&lt;!---
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://music.younes.cf/feed.xml" rel="self" type="application/atom+xml" /><link href="https://music.younes.cf/" rel="alternate" type="text/html" /><updated>2022-03-16T21:40:47+01:00</updated><id>https://music.younes.cf/feed.xml</id><title type="html">My Music</title><subtitle>My Super Music Tracks.</subtitle><author><name>yanobenel</name></author><entry><title type="html">Dumb Age (My Edit)</title><link href="https://music.younes.cf/2022/03/07/DumpAge.html" rel="alternate" type="text/html" title="Dumb Age (My Edit)" /><published>2022-03-07T00:00:00+01:00</published><updated>2022-03-07T00:00:00+01:00</updated><id>https://music.younes.cf/2022/03/07/DumpAge</id><content type="html" xml:base="https://music.younes.cf/2022/03/07/DumpAge.html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/DumbAge.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/DumbAge_cover.png&quot;,&quot;title&quot;:&quot;Dumb Age (My Edit)&quot;,&quot;subtitle&quot;:&quot;A Fabulous Touch.&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2022/03/07/DumpAge.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Remixed And Edited by Me :)&lt;/li&gt;
+  &lt;li&gt;12th Song Of Extrawelt Incredible Album (In Aufruhr)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Extrawelt</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.younes.cf/DumbAge_cover.png" /><media:content medium="image" url="https://music.younes.cf/DumbAge_cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Wavy (Interlude)</title><link href="https://music.younes.cf/2022/01/02/Wavy.html" rel="alternate" type="text/html" title="Wavy (Interlude)" /><published>2022-01-02T00:00:00+01:00</published><updated>2022-01-02T00:00:00+01:00</updated><id>https://music.younes.cf/2022/01/02/Wavy</id><content type="html" xml:base="https://music.younes.cf/2022/01/02/Wavy.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
@@ -169,21 +188,4 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;The Way SoundTrack By r2dr0dn (Ybenel)&lt;/li&gt;
   &lt;li&gt;Simulating Nintendo 90s PSG Sound Chips&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Younes B</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.younes.cf/TheWay.png" /><media:content medium="image" url="https://music.younes.cf/TheWay.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Mandalorian</title><link href="https://music.younes.cf/2020/11/12/The-Mandalorian.html" rel="alternate" type="text/html" title="The Mandalorian" /><published>2020-11-12T00:00:00+01:00</published><updated>2020-11-12T00:00:00+01:00</updated><id>https://music.younes.cf/2020/11/12/The-Mandalorian</id><content type="html" xml:base="https://music.younes.cf/2020/11/12/The-Mandalorian.html">&lt;!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
---&gt;
-&lt;!-- yanobenel --&gt;
-&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.younes.cf/episodes/Mandalorian.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.younes.cf/img/Mandalorian.jpg&quot;,&quot;title&quot;:&quot;The Mandalorian&quot;,&quot;subtitle&quot;:&quot;The StarWars Franchise Never Dies!&quot;,&quot;url&quot;:&quot;https://music.younes.cf/2020/11/12/The-Mandalorian.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
-&lt;/script&gt;
-
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.younes.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
-&lt;/script&gt;
-
-&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
-  &lt;li&gt;The Mandalorian SoundTrack By (Ludwig Göransson)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Younes B</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.younes.cf/Mandalorian.jpg" /><media:content medium="image" url="https://music.younes.cf/Mandalorian.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Younes B</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.younes.cf/TheWay.png" /><media:content medium="image" url="https://music.younes.cf/TheWay.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
