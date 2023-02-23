@@ -9,18 +9,18 @@
 
   <channel>
     <title>My Music</title>
-    <link>https://music.younes.cf</link>
-    <atom:link href="https://music.younes.cf/episodes.ogg.rss2" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-    <atom:link href="https://music.younes.cf/episodes.ogg.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://music.younes.cf/episodes2.ogg.rss" rel="last" type="application/rss+xml" />
+    <link>https://music.yanobenel.cf</link>
+    <atom:link href="https://music.yanobenel.cf/episodes.ogg.rss2" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <atom:link href="https://music.yanobenel.cf/episodes.ogg.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://music.yanobenel.cf/episodes2.ogg.rss" rel="last" type="application/rss+xml" />
     
-    <atom:link href="https://music.younes.cf/episodes.ogg.rss" rel="prev" type="application/rss+xml" />
+    <atom:link href="https://music.yanobenel.cf/episodes.ogg.rss" rel="prev" type="application/rss+xml" />
 
-    <atom:link rel="alternate" href="https://music.younes.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://music.younes.cf/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://music.yanobenel.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://music.yanobenel.cf/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>My Super Music Tracks.
 </description>
-    <lastBuildDate>Wed, 16 Mar 2022 21:40:47 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2023 00:14:52 +0100</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -28,7 +28,7 @@
 </itunes:summary>
     <itunes:author>yanobenel</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://music.younes.cf/img/logo.png" />
+    <itunes:image href="https://music.yanobenel.cf/img/logo.png" />
     <itunes:owner>
       <itunes:name>yanobenel</itunes:name>
       <itunes:email>yanobenel@duck.com</itunes:email>
@@ -39,8 +39,8 @@
     <itunes:keywords>electronic, techno, dance, club, music, magic, pop, R&B</itunes:keywords>
     <image>
       <title>My Music</title>
-      <url>https://music.younes.cf/img/logo.png</url>
-      <link>https://music.younes.cf</link>
+      <url>https://music.yanobenel.cf/img/logo.png</url>
+      <link>https://music.yanobenel.cf</link>
     </image>
     
     <itunes:category text="Technology" />

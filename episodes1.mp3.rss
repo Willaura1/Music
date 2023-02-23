@@ -9,18 +9,18 @@
 
   <channel>
     <title>My Music</title>
-    <link>https://music.younes.cf</link>
-    <atom:link href="https://music.younes.cf/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="https://music.younes.cf/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://music.younes.cf/episodes2.mp3.rss" rel="last" type="application/rss+xml" />
-    <atom:link href="https://music.younes.cf/episodes2.mp3.rss" rel="next" type="application/rss+xml" />
+    <link>https://music.yanobenel.cf</link>
+    <atom:link href="https://music.yanobenel.cf/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://music.yanobenel.cf/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://music.yanobenel.cf/episodes2.mp3.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://music.yanobenel.cf/episodes2.mp3.rss" rel="next" type="application/rss+xml" />
     
 
-    <atom:link rel="alternate" href="https://music.younes.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://music.younes.cf/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://music.yanobenel.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://music.yanobenel.cf/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>My Super Music Tracks.
 </description>
-    <lastBuildDate>Wed, 16 Mar 2022 21:40:47 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2023 00:14:52 +0100</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -28,7 +28,7 @@
 </itunes:summary>
     <itunes:author>yanobenel</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://music.younes.cf/img/logo.png" />
+    <itunes:image href="https://music.yanobenel.cf/img/logo.png" />
     <itunes:owner>
       <itunes:name>yanobenel</itunes:name>
       <itunes:email>yanobenel@duck.com</itunes:email>
@@ -39,19 +39,19 @@
     <itunes:keywords>electronic, techno, dance, club, music, magic, pop, R&B</itunes:keywords>
     <image>
       <title>My Music</title>
-      <url>https://music.younes.cf/img/logo.png</url>
-      <link>https://music.younes.cf</link>
+      <url>https://music.yanobenel.cf/img/logo.png</url>
+      <link>https://music.yanobenel.cf</link>
     </image>
     
     <itunes:category text="Technology" />
     <item>
             <title>Dumb Age (My Edit) - A Fabulous Touch.</title>
-            <link>https://music.younes.cf/2022/03/07/DumpAge.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/DumpAge"/>
-            <comments>https://music.younes.cf/2022/03/07/DumpAge.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2022/03/07/DumpAge.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/DumpAge"/>
+            <comments>https://music.yanobenel.cf/2022/03/07/DumpAge.html#disqus_thread</comments>
             <pubDate>Mon, 07 Mar 2022 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2022/03/07/DumpAge.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2022/03/07/DumpAge.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -84,7 +84,7 @@ It is only necessary for hosting remotely.
   <li>12th Song Of Extrawelt Incredible Album (In Aufruhr)</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/DumbAge.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/DumbAge.mp3" 
                          length="15306281" 
                          type="audio/mpeg" />
             
@@ -94,19 +94,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Extrawelt</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>382.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/DumbAge_cover.png" />
+            <itunes:image href="https://music.yanobenel.cf/img/DumbAge_cover.png" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/DumbAge_cover.png</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/DumbAge_cover.png</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item><item>
             <title>Wavy (Interlude) - Back On Track .</title>
-            <link>https://music.younes.cf/2022/01/02/Wavy.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Wavy"/>
-            <comments>https://music.younes.cf/2022/01/02/Wavy.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2022/01/02/Wavy.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Wavy"/>
+            <comments>https://music.yanobenel.cf/2022/01/02/Wavy.html#disqus_thread</comments>
             <pubDate>Sun, 02 Jan 2022 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2022/01/02/Wavy.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2022/01/02/Wavy.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -139,7 +139,7 @@ It is only necessary for hosting remotely.
   <li>Finally Things Are Back On Track.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/Wavy.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/Wavy.mp3" 
                          length="3342848" 
                          type="audio/mpeg" />
             
@@ -149,19 +149,19 @@ It is only necessary for hosting remotely.
             <itunes:author>SZA</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>75.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/BrokenClocks_Cover.png" />
+            <itunes:image href="https://music.yanobenel.cf/img/BrokenClocks_Cover.png" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/BrokenClocks_Cover.png</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/BrokenClocks_Cover.png</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item><item>
             <title>Broken Clocks - When To Move On ?</title>
-            <link>https://music.younes.cf/2021/12/14/BrokenClocks.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/BrokenClocks"/>
-            <comments>https://music.younes.cf/2021/12/14/BrokenClocks.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2021/12/14/BrokenClocks.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/BrokenClocks"/>
+            <comments>https://music.yanobenel.cf/2021/12/14/BrokenClocks.html#disqus_thread</comments>
             <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2021/12/14/BrokenClocks.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2021/12/14/BrokenClocks.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -194,7 +194,7 @@ It is only necessary for hosting remotely.
   <li>Better day then yesterday.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/BrokenClocks.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/BrokenClocks.mp3" 
                          length="9551360" 
                          type="audio/mpeg" />
             
@@ -204,19 +204,19 @@ It is only necessary for hosting remotely.
             <itunes:author>SZA</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>231.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/BrokenClocks_Cover.png" />
+            <itunes:image href="https://music.yanobenel.cf/img/BrokenClocks_Cover.png" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/BrokenClocks_Cover.png</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/BrokenClocks_Cover.png</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item><item>
             <title>The Forever Oblivion - Where's My Love ?</title>
-            <link>https://music.younes.cf/2021/08/07/OblivionForver.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/OblivionForver"/>
-            <comments>https://music.younes.cf/2021/08/07/OblivionForver.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2021/08/07/OblivionForver.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/OblivionForver"/>
+            <comments>https://music.yanobenel.cf/2021/08/07/OblivionForver.html#disqus_thread</comments>
             <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2021/08/07/OblivionForver.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2021/08/07/OblivionForver.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -249,7 +249,7 @@ It is only necessary for hosting remotely.
   <li>A song that feels like walking with ur love in a dark night.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/OblivionForever.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/OblivionForever.mp3" 
                          length="1567901" 
                          type="audio/mpeg" />
             
@@ -259,19 +259,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Grimes, Magdalena Bay</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>91.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/OblivionForever.jpg" />
+            <itunes:image href="https://music.yanobenel.cf/img/OblivionForever.jpg" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/OblivionForever.jpg</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/OblivionForever.jpg</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item><item>
             <title>The Oblivion - The reason i'm in oblivion</title>
-            <link>https://music.younes.cf/2021/08/07/Oblivion.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Oblivion"/>
-            <comments>https://music.younes.cf/2021/08/07/Oblivion.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2021/08/07/Oblivion.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Oblivion"/>
+            <comments>https://music.yanobenel.cf/2021/08/07/Oblivion.html#disqus_thread</comments>
             <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2021/08/07/Oblivion.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2021/08/07/Oblivion.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -304,7 +304,7 @@ It is only necessary for hosting remotely.
   <li>A song for empowering myself physically amongst a masculine power, and the hate of feeling powerless, making light of masculine physical power.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/Oblivion.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/Oblivion.mp3" 
                          length="10276710" 
                          type="audio/mpeg" />
             
@@ -314,19 +314,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Grimes</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>251.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/Oblivion.png" />
+            <itunes:image href="https://music.yanobenel.cf/img/Oblivion.png" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/Oblivion.png</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/Oblivion.png</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item><item>
             <title>Genesis - The Hot Girl I Want</title>
-            <link>https://music.younes.cf/2021/08/07/Genesis.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Genesis"/>
-            <comments>https://music.younes.cf/2021/08/07/Genesis.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2021/08/07/Genesis.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Genesis"/>
+            <comments>https://music.yanobenel.cf/2021/08/07/Genesis.html#disqus_thread</comments>
             <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2021/08/07/Genesis.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2021/08/07/Genesis.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -359,7 +359,7 @@ It is only necessary for hosting remotely.
   <li>A song that makes you feel you are far away.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/Genesis.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/Genesis.mp3" 
                          length="10304734" 
                          type="audio/mpeg" />
             
@@ -369,19 +369,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Grimes</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>257.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/Genesis.jpg" />
+            <itunes:image href="https://music.yanobenel.cf/img/Genesis.jpg" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/Genesis.jpg</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/Genesis.jpg</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item><item>
             <title>Instant Crush - The Instant Crush Of My Heart</title>
-            <link>https://music.younes.cf/2021/04/15/Instant-Crush.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Instant-Crush"/>
-            <comments>https://music.younes.cf/2021/04/15/Instant-Crush.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2021/04/15/Instant-Crush.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Instant-Crush"/>
+            <comments>https://music.yanobenel.cf/2021/04/15/Instant-Crush.html#disqus_thread</comments>
             <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2021/04/15/Instant-Crush.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2021/04/15/Instant-Crush.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -414,7 +414,7 @@ It is only necessary for hosting remotely.
   <li>A Peaceful Song That Makes You Want To Kiss And Cry</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/InstantCrush.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/InstantCrush.mp3" 
                          length="13637960" 
                          type="audio/mpeg" />
             
@@ -424,19 +424,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Daft Punk, Julian Casablancas</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>340.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/InstantCrush.jpg" />
+            <itunes:image href="https://music.yanobenel.cf/img/InstantCrush.jpg" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/InstantCrush.jpg</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/InstantCrush.jpg</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item><item>
             <title>Monster Grain - Monster OST.</title>
-            <link>https://music.younes.cf/2021/01/24/Monster-Grain.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/Monster-Grain"/>
-            <comments>https://music.younes.cf/2021/01/24/Monster-Grain.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2021/01/24/Monster-Grain.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Monster-Grain"/>
+            <comments>https://music.yanobenel.cf/2021/01/24/Monster-Grain.html#disqus_thread</comments>
             <pubDate>Sun, 24 Jan 2021 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2021/01/24/Monster-Grain.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2021/01/24/Monster-Grain.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -469,7 +469,7 @@ It is only necessary for hosting remotely.
   <li>The Best Starting Song Ever</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/Grain.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/Grain.mp3" 
                          length="3467153" 
                          type="audio/mpeg" />
             
@@ -479,19 +479,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Naoki Urasawa</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>86.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/Monster.jpeg" />
+            <itunes:image href="https://music.yanobenel.cf/img/Monster.jpeg" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/Monster.jpeg</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/Monster.jpeg</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item><item>
             <title>The Imperial March - The Dark Force Is Always With Me.</title>
-            <link>https://music.younes.cf/2020/11/22/The-Imperial-March.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/The-Imperial-March"/>
-            <comments>https://music.younes.cf/2020/11/22/The-Imperial-March.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/The-Imperial-March"/>
+            <comments>https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html#disqus_thread</comments>
             <pubDate>Sun, 22 Nov 2020 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2020/11/22/The-Imperial-March.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -524,7 +524,7 @@ It is only necessary for hosting remotely.
   <li>The Dark Force Is Always With Me (Darth Vader)</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/The_Imperial_March.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/The_Imperial_March.mp3" 
                          length="7628407" 
                          type="audio/mpeg" />
             
@@ -534,19 +534,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Younes B</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>186.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/DarthVader.jpg" />
+            <itunes:image href="https://music.yanobenel.cf/img/DarthVader.jpg" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/DarthVader.jpg</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/DarthVader.jpg</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item><item>
             <title>The Way - The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.</title>
-            <link>https://music.younes.cf/2020/11/18/TheWay.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.younes.cf/players/TheWay"/>
-            <comments>https://music.younes.cf/2020/11/18/TheWay.html#disqus_thread</comments>
+            <link>https://music.yanobenel.cf/2020/11/18/TheWay.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/TheWay"/>
+            <comments>https://music.yanobenel.cf/2020/11/18/TheWay.html#disqus_thread</comments>
             <pubDate>Wed, 18 Nov 2020 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://music.younes.cf/2020/11/18/TheWay.html</guid>
+            <guid isPermaLink="false">https://music.yanobenel.cf/2020/11/18/TheWay.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -579,7 +579,7 @@ It is only necessary for hosting remotely.
   <li>Simulating Nintendo 90s PSG Sound Chips</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://music.younes.cf/episodes/TheWay.mp3" 
+            <enclosure url="https://music.yanobenel.cf/episodes/TheWay.mp3" 
                          length="7930544" 
                          type="audio/mpeg" />
             
@@ -589,10 +589,10 @@ It is only necessary for hosting remotely.
             <itunes:author>Younes B</itunes:author>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>183.0</itunes:duration>
-            <itunes:image href="https://music.younes.cf/img/TheWay.png" />
+            <itunes:image href="https://music.yanobenel.cf/img/TheWay.png" />
               <image>
                 <title></title>
-                <url>https://music.younes.cf/img/TheWay.png</url>
-                <link>https://music.younes.cf</link>
+                <url>https://music.yanobenel.cf/img/TheWay.png</url>
+                <link>https://music.yanobenel.cf</link>
               </image></item></channel>
 </rss>
