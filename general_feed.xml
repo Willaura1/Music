@@ -4,7 +4,7 @@
   <title>My Music</title>
   <link href="https://music.yanobenel.cf/general_feed.xml" rel="self"/>
   <link href="https://music.yanobenel.cf"/>
-  <updated>2023-02-24T00:14:52+01:00</updated>
+  <updated>2023-07-19T22:51:47+00:00</updated>
   <id>https://music.yanobenel.cf/</id>
   <author>
     <name>yanobenel</name>
@@ -13,9 +13,81 @@
 
   
     <entry>
+      <title>Something About Us</title>
+      <link href="https://music.yanobenel.cf/2023/07/14/SomethingAboutUs.html"/>
+      <updated>2023-07-14T00:00:00+00:00</updated>
+      <id>https://music.yanobenel.cf/2023/07/14/SomethingAboutUs</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.yanobenel.cf/episodes/DaftPunk-SomethingAboutUs.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.yanobenel.cf/img/SomethingAboutUs.jpg&quot;,&quot;title&quot;:&quot;Something About Us&quot;,&quot;subtitle&quot;:&quot;Partner Shall Long See.&quot;,&quot;url&quot;:&quot;https://music.yanobenel.cf/2023/07/14/SomethingAboutUs.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.yanobenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lost in a dream of a romantic world Wandering till i a see the love of my life.&lt;/li&gt;
+  &lt;li&gt;Wherever you may wander, and whenever fate may lead, my deepest hope is that one day our paths will cross,
+  and I will finally find you.&lt;/li&gt;
+  &lt;li&gt;6th Song Of Extrawelt Discovery Album&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="9224912" 
+                href="https://music.yanobenel.cf/episodes/DaftPunk-SomethingAboutUs.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Voyager</title>
+      <link href="https://music.yanobenel.cf/2023/07/13/Voyager.html"/>
+      <updated>2023-07-13T00:00:00+00:00</updated>
+      <id>https://music.yanobenel.cf/2023/07/13/Voyager</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.yanobenel.cf/episodes/DaftPunk-Voyager.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.yanobenel.cf/img/DaftPunk.jpg&quot;,&quot;title&quot;:&quot;Voyager&quot;,&quot;subtitle&quot;:&quot;Journey Through The Stars.&quot;,&quot;url&quot;:&quot;https://music.yanobenel.cf/2023/07/13/Voyager.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.yanobenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;A Feeling Of A Journey Across The Stars&lt;/li&gt;
+  &lt;li&gt;10th Song Of Daft Punk Discovery Album&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="9054946" 
+                href="https://music.yanobenel.cf/episodes/DaftPunk-Voyager.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
       <title>Dumb Age (My Edit)</title>
       <link href="https://music.yanobenel.cf/2022/03/07/DumpAge.html"/>
-      <updated>2022-03-07T00:00:00+01:00</updated>
+      <updated>2022-03-07T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2022/03/07/DumpAge</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -31,7 +103,6 @@ It is only necessary for hosting remotely.
  --&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
-
 &lt;ul&gt;
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;Remixed And Edited by Me :)&lt;/li&gt;
@@ -52,7 +123,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>Wavy (Interlude)</title>
       <link href="https://music.yanobenel.cf/2022/01/02/Wavy.html"/>
-      <updated>2022-01-02T00:00:00+01:00</updated>
+      <updated>2022-01-02T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2022/01/02/Wavy</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -89,7 +160,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>Broken Clocks</title>
       <link href="https://music.yanobenel.cf/2021/12/14/BrokenClocks.html"/>
-      <updated>2021-12-14T00:00:00+01:00</updated>
+      <updated>2021-12-14T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2021/12/14/BrokenClocks</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -126,7 +197,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>The Forever Oblivion</title>
       <link href="https://music.yanobenel.cf/2021/08/07/OblivionForver.html"/>
-      <updated>2021-08-07T00:00:00+01:00</updated>
+      <updated>2021-08-07T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2021/08/07/OblivionForver</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -163,7 +234,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>The Oblivion</title>
       <link href="https://music.yanobenel.cf/2021/08/07/Oblivion.html"/>
-      <updated>2021-08-07T00:00:00+01:00</updated>
+      <updated>2021-08-07T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2021/08/07/Oblivion</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -200,7 +271,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>Genesis</title>
       <link href="https://music.yanobenel.cf/2021/08/07/Genesis.html"/>
-      <updated>2021-08-07T00:00:00+01:00</updated>
+      <updated>2021-08-07T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2021/08/07/Genesis</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -274,7 +345,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>Monster Grain</title>
       <link href="https://music.yanobenel.cf/2021/01/24/Monster-Grain.html"/>
-      <updated>2021-01-24T00:00:00+01:00</updated>
+      <updated>2021-01-24T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2021/01/24/Monster-Grain</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -311,7 +382,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>The Imperial March</title>
       <link href="https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html"/>
-      <updated>2020-11-22T00:00:00+01:00</updated>
+      <updated>2020-11-22T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2020/11/22/The-Imperial-March</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -348,7 +419,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>The Way</title>
       <link href="https://music.yanobenel.cf/2020/11/18/TheWay.html"/>
-      <updated>2020-11-18T00:00:00+01:00</updated>
+      <updated>2020-11-18T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2020/11/18/TheWay</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -385,7 +456,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>The Mandalorian</title>
       <link href="https://music.yanobenel.cf/2020/11/12/The-Mandalorian.html"/>
-      <updated>2020-11-12T00:00:00+01:00</updated>
+      <updated>2020-11-12T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2020/11/12/The-Mandalorian</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -420,7 +491,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>Skins</title>
       <link href="https://music.yanobenel.cf/2020/06/27/Skins.html"/>
-      <updated>2020-06-27T00:00:00+01:00</updated>
+      <updated>2020-06-27T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2020/06/27/Skins</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -456,7 +527,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>A Little Further</title>
       <link href="https://music.yanobenel.cf/2020/01/05/A-Little-Further.html"/>
-      <updated>2020-01-05T00:00:00+01:00</updated>
+      <updated>2020-01-05T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2020/01/05/A-Little-Further</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -491,7 +562,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>Response</title>
       <link href="https://music.yanobenel.cf/2019/12/30/Response.html"/>
-      <updated>2019-12-30T00:00:00+01:00</updated>
+      <updated>2019-12-30T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2019/12/30/Response</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -527,7 +598,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>AyamZaman</title>
       <link href="https://music.yanobenel.cf/2019/12/05/AyamZaman.html"/>
-      <updated>2019-12-05T00:00:00+01:00</updated>
+      <updated>2019-12-05T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2019/12/05/AyamZaman</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -562,7 +633,7 @@ It is only necessary for hosting remotely.
     <entry>
       <title>3310</title>
       <link href="https://music.yanobenel.cf/2019/10/25/3310.html"/>
-      <updated>2019-10-25T00:00:00+01:00</updated>
+      <updated>2019-10-25T00:00:00+00:00</updated>
       <id>https://music.yanobenel.cf/2019/10/25/3310</id>
       <content type="html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.

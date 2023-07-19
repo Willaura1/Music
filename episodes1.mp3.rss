@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://music.yanobenel.cf/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>My Super Music Tracks.
 </description>
-    <lastBuildDate>Fri, 24 Feb 2023 00:14:52 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 22:51:47 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -45,11 +45,117 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>Something About Us - Partner Shall Long See.</title>
+            <link>https://music.yanobenel.cf/2023/07/14/SomethingAboutUs.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/SomethingAboutUs"/>
+            <comments>https://music.yanobenel.cf/2023/07/14/SomethingAboutUs.html#disqus_thread</comments>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">https://music.yanobenel.cf/2023/07/14/SomethingAboutUs.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+<ul>
+  <li>Lost in a dream of a romantic world Wandering till i a see the love of my life.</li>
+  <li>Wherever you may wander, and whenever fate may lead, my deepest hope is that one day our paths will cross,
+  and I will finally find you.</li>
+  <li>6th Song Of Extrawelt Discovery Album</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+<ul>
+  <li>Lost in a dream of a romantic world Wandering till i a see the love of my life.</li>
+  <li>Wherever you may wander, and whenever fate may lead, my deepest hope is that one day our paths will cross,
+  and I will finally find you.</li>
+  <li>6th Song Of Extrawelt Discovery Album</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.yanobenel.cf/episodes/DaftPunk-SomethingAboutUs.mp3" 
+                         length="9224912" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Partner Shall Long See.</itunes:subtitle>
+            <itunes:summary>Daft Punk - Something About Us</itunes:summary>
+            <itunes:author>Daft Punk</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>232.0</itunes:duration>
+            <itunes:image href="https://music.yanobenel.cf/img/SomethingAboutUs.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.yanobenel.cf/img/SomethingAboutUs.jpg</url>
+                <link>https://music.yanobenel.cf</link>
+              </image></item><item>
+            <title>Voyager - Journey Through The Stars.</title>
+            <link>https://music.yanobenel.cf/2023/07/13/Voyager.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Voyager"/>
+            <comments>https://music.yanobenel.cf/2023/07/13/Voyager.html#disqus_thread</comments>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">https://music.yanobenel.cf/2023/07/13/Voyager.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+<ul>
+  <li>A Feeling Of A Journey Across The Stars</li>
+  <li>10th Song Of Daft Punk Discovery Album</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- yanobenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+<ul>
+  <li>A Feeling Of A Journey Across The Stars</li>
+  <li>10th Song Of Daft Punk Discovery Album</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.yanobenel.cf/episodes/DaftPunk-Voyager.mp3" 
+                         length="9054946" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Journey Through The Stars.</itunes:subtitle>
+            <itunes:summary>Daft Punk - Voyager</itunes:summary>
+            <itunes:author>Daft Punk</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>227.0</itunes:duration>
+            <itunes:image href="https://music.yanobenel.cf/img/DaftPunk.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.yanobenel.cf/img/DaftPunk.jpg</url>
+                <link>https://music.yanobenel.cf</link>
+              </image></item><item>
             <title>Dumb Age (My Edit) - A Fabulous Touch.</title>
             <link>https://music.yanobenel.cf/2022/03/07/DumpAge.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/DumpAge"/>
             <comments>https://music.yanobenel.cf/2022/03/07/DumpAge.html#disqus_thread</comments>
-            <pubDate>Mon, 07 Mar 2022 00:00:00 +0100</pubDate>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://music.yanobenel.cf/2022/03/07/DumpAge.html</guid>
             <description><![CDATA[<!---
@@ -61,7 +167,6 @@ It is only necessary for hosting remotely.
  -->
 
 <h2 id="show-notes-and-links">Show Notes and Links</h2>
-
 <ul>
   <li>(mp3 = 320kbit (HQ))</li>
   <li>Remixed And Edited by Me :)</li>
@@ -77,7 +182,6 @@ It is only necessary for hosting remotely.
  -->
 
 <h2 id="show-notes-and-links">Show Notes and Links</h2>
-
 <ul>
   <li>(mp3 = 320kbit (HQ))</li>
   <li>Remixed And Edited by Me :)</li>
@@ -104,7 +208,7 @@ It is only necessary for hosting remotely.
             <link>https://music.yanobenel.cf/2022/01/02/Wavy.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Wavy"/>
             <comments>https://music.yanobenel.cf/2022/01/02/Wavy.html#disqus_thread</comments>
-            <pubDate>Sun, 02 Jan 2022 00:00:00 +0100</pubDate>
+            <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://music.yanobenel.cf/2022/01/02/Wavy.html</guid>
             <description><![CDATA[<!---
@@ -159,7 +263,7 @@ It is only necessary for hosting remotely.
             <link>https://music.yanobenel.cf/2021/12/14/BrokenClocks.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/BrokenClocks"/>
             <comments>https://music.yanobenel.cf/2021/12/14/BrokenClocks.html#disqus_thread</comments>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://music.yanobenel.cf/2021/12/14/BrokenClocks.html</guid>
             <description><![CDATA[<!---
@@ -214,7 +318,7 @@ It is only necessary for hosting remotely.
             <link>https://music.yanobenel.cf/2021/08/07/OblivionForver.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/OblivionForver"/>
             <comments>https://music.yanobenel.cf/2021/08/07/OblivionForver.html#disqus_thread</comments>
-            <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
+            <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://music.yanobenel.cf/2021/08/07/OblivionForver.html</guid>
             <description><![CDATA[<!---
@@ -269,7 +373,7 @@ It is only necessary for hosting remotely.
             <link>https://music.yanobenel.cf/2021/08/07/Oblivion.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Oblivion"/>
             <comments>https://music.yanobenel.cf/2021/08/07/Oblivion.html#disqus_thread</comments>
-            <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
+            <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://music.yanobenel.cf/2021/08/07/Oblivion.html</guid>
             <description><![CDATA[<!---
@@ -324,7 +428,7 @@ It is only necessary for hosting remotely.
             <link>https://music.yanobenel.cf/2021/08/07/Genesis.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Genesis"/>
             <comments>https://music.yanobenel.cf/2021/08/07/Genesis.html#disqus_thread</comments>
-            <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
+            <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://music.yanobenel.cf/2021/08/07/Genesis.html</guid>
             <description><![CDATA[<!---
@@ -434,7 +538,7 @@ It is only necessary for hosting remotely.
             <link>https://music.yanobenel.cf/2021/01/24/Monster-Grain.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/Monster-Grain"/>
             <comments>https://music.yanobenel.cf/2021/01/24/Monster-Grain.html#disqus_thread</comments>
-            <pubDate>Sun, 24 Jan 2021 00:00:00 +0100</pubDate>
+            <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://music.yanobenel.cf/2021/01/24/Monster-Grain.html</guid>
             <description><![CDATA[<!---
@@ -483,116 +587,6 @@ It is only necessary for hosting remotely.
               <image>
                 <title></title>
                 <url>https://music.yanobenel.cf/img/Monster.jpeg</url>
-                <link>https://music.yanobenel.cf</link>
-              </image></item><item>
-            <title>The Imperial March - The Dark Force Is Always With Me.</title>
-            <link>https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/The-Imperial-March"/>
-            <comments>https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html#disqus_thread</comments>
-            <pubDate>Sun, 22 Nov 2020 00:00:00 +0100</pubDate>
-            
-            <guid isPermaLink="false">https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html</guid>
-            <description><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-<!-- yanobenel -->
-<!-- 
- -->
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>(mp3 = 320kbit (HQ))</li>
-  <li>The Imperial March SoundTrack Album The Empire Strikes Back (Star Wars) By John Williams</li>
-  <li>The Dark Force Is Always With Me (Darth Vader)</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-<!-- yanobenel -->
-<!-- 
- -->
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>(mp3 = 320kbit (HQ))</li>
-  <li>The Imperial March SoundTrack Album The Empire Strikes Back (Star Wars) By John Williams</li>
-  <li>The Dark Force Is Always With Me (Darth Vader)</li>
-</ul>
-]]></content:encoded>
-            <enclosure url="https://music.yanobenel.cf/episodes/The_Imperial_March.mp3" 
-                         length="7628407" 
-                         type="audio/mpeg" />
-            
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>The Dark Force Is Always With Me.</itunes:subtitle>
-            <itunes:summary>The Imperial March Album The Empire Strikes Back By John Williams</itunes:summary>
-            <itunes:author>Younes B</itunes:author>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>186.0</itunes:duration>
-            <itunes:image href="https://music.yanobenel.cf/img/DarthVader.jpg" />
-              <image>
-                <title></title>
-                <url>https://music.yanobenel.cf/img/DarthVader.jpg</url>
-                <link>https://music.yanobenel.cf</link>
-              </image></item><item>
-            <title>The Way - The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.</title>
-            <link>https://music.yanobenel.cf/2020/11/18/TheWay.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://music.yanobenel.cf/players/TheWay"/>
-            <comments>https://music.yanobenel.cf/2020/11/18/TheWay.html#disqus_thread</comments>
-            <pubDate>Wed, 18 Nov 2020 00:00:00 +0100</pubDate>
-            
-            <guid isPermaLink="false">https://music.yanobenel.cf/2020/11/18/TheWay.html</guid>
-            <description><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-<!-- yanobenel -->
-<!-- 
- -->
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>(mp3 = 320kbit (HQ))</li>
-  <li>The Way SoundTrack By r2dr0dn (Ybenel)</li>
-  <li>Simulating Nintendo 90s PSG Sound Chips</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-<!-- yanobenel -->
-<!-- 
- -->
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>(mp3 = 320kbit (HQ))</li>
-  <li>The Way SoundTrack By r2dr0dn (Ybenel)</li>
-  <li>Simulating Nintendo 90s PSG Sound Chips</li>
-</ul>
-]]></content:encoded>
-            <enclosure url="https://music.yanobenel.cf/episodes/TheWay.mp3" 
-                         length="7930544" 
-                         type="audio/mpeg" />
-            
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.</itunes:subtitle>
-            <itunes:summary>The Way SoundTrack By r2dr0dn</itunes:summary>
-            <itunes:author>Younes B</itunes:author>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>183.0</itunes:duration>
-            <itunes:image href="https://music.yanobenel.cf/img/TheWay.png" />
-              <image>
-                <title></title>
-                <url>https://music.yanobenel.cf/img/TheWay.png</url>
                 <link>https://music.yanobenel.cf</link>
               </image></item></channel>
 </rss>

@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://music.yanobenel.cf/feed.xml" rel="self" type="application/atom+xml" /><link href="https://music.yanobenel.cf/" rel="alternate" type="text/html" /><updated>2023-02-24T00:14:52+01:00</updated><id>https://music.yanobenel.cf/feed.xml</id><title type="html">My Music</title><subtitle>My Super Music Tracks.</subtitle><author><name>yanobenel</name></author><entry><title type="html">Dumb Age (My Edit)</title><link href="https://music.yanobenel.cf/2022/03/07/DumpAge.html" rel="alternate" type="text/html" title="Dumb Age (My Edit)" /><published>2022-03-07T00:00:00+01:00</published><updated>2022-03-07T00:00:00+01:00</updated><id>https://music.yanobenel.cf/2022/03/07/DumpAge</id><content type="html" xml:base="https://music.yanobenel.cf/2022/03/07/DumpAge.html">&lt;!---
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://music.yanobenel.cf/feed.xml" rel="self" type="application/atom+xml" /><link href="https://music.yanobenel.cf/" rel="alternate" type="text/html" /><updated>2023-07-19T22:51:47+00:00</updated><id>https://music.yanobenel.cf/feed.xml</id><title type="html">My Music</title><subtitle>My Super Music Tracks.</subtitle><author><name>yanobenel</name></author><entry><title type="html">Something About Us</title><link href="https://music.yanobenel.cf/2023/07/14/SomethingAboutUs.html" rel="alternate" type="text/html" title="Something About Us" /><published>2023-07-14T00:00:00+00:00</published><updated>2023-07-14T00:00:00+00:00</updated><id>https://music.yanobenel.cf/2023/07/14/SomethingAboutUs</id><content type="html" xml:base="https://music.yanobenel.cf/2023/07/14/SomethingAboutUs.html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.yanobenel.cf/episodes/DaftPunk-SomethingAboutUs.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.yanobenel.cf/img/SomethingAboutUs.jpg&quot;,&quot;title&quot;:&quot;Something About Us&quot;,&quot;subtitle&quot;:&quot;Partner Shall Long See.&quot;,&quot;url&quot;:&quot;https://music.yanobenel.cf/2023/07/14/SomethingAboutUs.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.yanobenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lost in a dream of a romantic world Wandering till i a see the love of my life.&lt;/li&gt;
+  &lt;li&gt;Wherever you may wander, and whenever fate may lead, my deepest hope is that one day our paths will cross,
+  and I will finally find you.&lt;/li&gt;
+  &lt;li&gt;6th Song Of Extrawelt Discovery Album&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Daft Punk</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/SomethingAboutUs.jpg" /><media:content medium="image" url="https://music.yanobenel.cf/SomethingAboutUs.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Voyager</title><link href="https://music.yanobenel.cf/2023/07/13/Voyager.html" rel="alternate" type="text/html" title="Voyager" /><published>2023-07-13T00:00:00+00:00</published><updated>2023-07-13T00:00:00+00:00</updated><id>https://music.yanobenel.cf/2023/07/13/Voyager</id><content type="html" xml:base="https://music.yanobenel.cf/2023/07/13/Voyager.html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- yanobenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.yanobenel.cf/episodes/DaftPunk-Voyager.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.yanobenel.cf/img/DaftPunk.jpg&quot;,&quot;title&quot;:&quot;Voyager&quot;,&quot;subtitle&quot;:&quot;Journey Through The Stars.&quot;,&quot;url&quot;:&quot;https://music.yanobenel.cf/2023/07/13/Voyager.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.yanobenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;A Feeling Of A Journey Across The Stars&lt;/li&gt;
+  &lt;li&gt;10th Song Of Daft Punk Discovery Album&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Daft Punk</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/DaftPunk.jpg" /><media:content medium="image" url="https://music.yanobenel.cf/DaftPunk.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dumb Age (My Edit)</title><link href="https://music.yanobenel.cf/2022/03/07/DumpAge.html" rel="alternate" type="text/html" title="Dumb Age (My Edit)" /><published>2022-03-07T00:00:00+00:00</published><updated>2022-03-07T00:00:00+00:00</updated><id>https://music.yanobenel.cf/2022/03/07/DumpAge</id><content type="html" xml:base="https://music.yanobenel.cf/2022/03/07/DumpAge.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
@@ -12,12 +48,11 @@ It is only necessary for hosting remotely.
  --&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
-
 &lt;ul&gt;
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;Remixed And Edited by Me :)&lt;/li&gt;
   &lt;li&gt;12th Song Of Extrawelt Incredible Album (In Aufruhr)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Extrawelt</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/DumbAge_cover.png" /><media:content medium="image" url="https://music.yanobenel.cf/DumbAge_cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Wavy (Interlude)</title><link href="https://music.yanobenel.cf/2022/01/02/Wavy.html" rel="alternate" type="text/html" title="Wavy (Interlude)" /><published>2022-01-02T00:00:00+01:00</published><updated>2022-01-02T00:00:00+01:00</updated><id>https://music.yanobenel.cf/2022/01/02/Wavy</id><content type="html" xml:base="https://music.yanobenel.cf/2022/01/02/Wavy.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Extrawelt</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/DumbAge_cover.png" /><media:content medium="image" url="https://music.yanobenel.cf/DumbAge_cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Wavy (Interlude)</title><link href="https://music.yanobenel.cf/2022/01/02/Wavy.html" rel="alternate" type="text/html" title="Wavy (Interlude)" /><published>2022-01-02T00:00:00+00:00</published><updated>2022-01-02T00:00:00+00:00</updated><id>https://music.yanobenel.cf/2022/01/02/Wavy</id><content type="html" xml:base="https://music.yanobenel.cf/2022/01/02/Wavy.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
@@ -36,7 +71,7 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;11th Song Of SZA Awesome Album (Ctrl)&lt;/li&gt;
   &lt;li&gt;Finally Things Are Back On Track.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>SZA</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/BrokenClocks_Cover.png" /><media:content medium="image" url="https://music.yanobenel.cf/BrokenClocks_Cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Broken Clocks</title><link href="https://music.yanobenel.cf/2021/12/14/BrokenClocks.html" rel="alternate" type="text/html" title="Broken Clocks" /><published>2021-12-14T00:00:00+01:00</published><updated>2021-12-14T00:00:00+01:00</updated><id>https://music.yanobenel.cf/2021/12/14/BrokenClocks</id><content type="html" xml:base="https://music.yanobenel.cf/2021/12/14/BrokenClocks.html">&lt;!---
+&lt;/ul&gt;</content><author><name>SZA</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/BrokenClocks_Cover.png" /><media:content medium="image" url="https://music.yanobenel.cf/BrokenClocks_Cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Broken Clocks</title><link href="https://music.yanobenel.cf/2021/12/14/BrokenClocks.html" rel="alternate" type="text/html" title="Broken Clocks" /><published>2021-12-14T00:00:00+00:00</published><updated>2021-12-14T00:00:00+00:00</updated><id>https://music.yanobenel.cf/2021/12/14/BrokenClocks</id><content type="html" xml:base="https://music.yanobenel.cf/2021/12/14/BrokenClocks.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
@@ -55,7 +90,7 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;9th Song Of SZA Awesome Album (Ctrl)&lt;/li&gt;
   &lt;li&gt;Better day then yesterday.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>SZA</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/BrokenClocks_Cover.png" /><media:content medium="image" url="https://music.yanobenel.cf/BrokenClocks_Cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Genesis</title><link href="https://music.yanobenel.cf/2021/08/07/Genesis.html" rel="alternate" type="text/html" title="Genesis" /><published>2021-08-07T00:00:00+01:00</published><updated>2021-08-07T00:00:00+01:00</updated><id>https://music.yanobenel.cf/2021/08/07/Genesis</id><content type="html" xml:base="https://music.yanobenel.cf/2021/08/07/Genesis.html">&lt;!---
+&lt;/ul&gt;</content><author><name>SZA</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/BrokenClocks_Cover.png" /><media:content medium="image" url="https://music.yanobenel.cf/BrokenClocks_Cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Genesis</title><link href="https://music.yanobenel.cf/2021/08/07/Genesis.html" rel="alternate" type="text/html" title="Genesis" /><published>2021-08-07T00:00:00+00:00</published><updated>2021-08-07T00:00:00+00:00</updated><id>https://music.yanobenel.cf/2021/08/07/Genesis</id><content type="html" xml:base="https://music.yanobenel.cf/2021/08/07/Genesis.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
@@ -74,7 +109,7 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;Genesis Track 02 Album Visions (Grimes)&lt;/li&gt;
   &lt;li&gt;A song that makes you feel you are far away.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Grimes</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/Genesis.jpg" /><media:content medium="image" url="https://music.yanobenel.cf/Genesis.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Oblivion</title><link href="https://music.yanobenel.cf/2021/08/07/Oblivion.html" rel="alternate" type="text/html" title="The Oblivion" /><published>2021-08-07T00:00:00+01:00</published><updated>2021-08-07T00:00:00+01:00</updated><id>https://music.yanobenel.cf/2021/08/07/Oblivion</id><content type="html" xml:base="https://music.yanobenel.cf/2021/08/07/Oblivion.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Grimes</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/Genesis.jpg" /><media:content medium="image" url="https://music.yanobenel.cf/Genesis.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Oblivion</title><link href="https://music.yanobenel.cf/2021/08/07/Oblivion.html" rel="alternate" type="text/html" title="The Oblivion" /><published>2021-08-07T00:00:00+00:00</published><updated>2021-08-07T00:00:00+00:00</updated><id>https://music.yanobenel.cf/2021/08/07/Oblivion</id><content type="html" xml:base="https://music.yanobenel.cf/2021/08/07/Oblivion.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
@@ -93,7 +128,7 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;Oblivion Track 03 Album Visions (Grimes)&lt;/li&gt;
   &lt;li&gt;A song for empowering myself physically amongst a masculine power, and the hate of feeling powerless, making light of masculine physical power.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Grimes</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/Oblivion.png" /><media:content medium="image" url="https://music.yanobenel.cf/Oblivion.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Forever Oblivion</title><link href="https://music.yanobenel.cf/2021/08/07/OblivionForver.html" rel="alternate" type="text/html" title="The Forever Oblivion" /><published>2021-08-07T00:00:00+01:00</published><updated>2021-08-07T00:00:00+01:00</updated><id>https://music.yanobenel.cf/2021/08/07/OblivionForver</id><content type="html" xml:base="https://music.yanobenel.cf/2021/08/07/OblivionForver.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Grimes</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/Oblivion.png" /><media:content medium="image" url="https://music.yanobenel.cf/Oblivion.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Forever Oblivion</title><link href="https://music.yanobenel.cf/2021/08/07/OblivionForver.html" rel="alternate" type="text/html" title="The Forever Oblivion" /><published>2021-08-07T00:00:00+00:00</published><updated>2021-08-07T00:00:00+00:00</updated><id>https://music.yanobenel.cf/2021/08/07/OblivionForver</id><content type="html" xml:base="https://music.yanobenel.cf/2021/08/07/OblivionForver.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
@@ -131,7 +166,7 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;Instant Crush Track 05 Album Random Access Memories (Daft Punk)&lt;/li&gt;
   &lt;li&gt;A Peaceful Song That Makes You Want To Kiss And Cry&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Daft Punk, Julian Casablancas</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/InstantCrush.jpg" /><media:content medium="image" url="https://music.yanobenel.cf/InstantCrush.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Monster Grain</title><link href="https://music.yanobenel.cf/2021/01/24/Monster-Grain.html" rel="alternate" type="text/html" title="Monster Grain" /><published>2021-01-24T00:00:00+01:00</published><updated>2021-01-24T00:00:00+01:00</updated><id>https://music.yanobenel.cf/2021/01/24/Monster-Grain</id><content type="html" xml:base="https://music.yanobenel.cf/2021/01/24/Monster-Grain.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Daft Punk, Julian Casablancas</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/InstantCrush.jpg" /><media:content medium="image" url="https://music.yanobenel.cf/InstantCrush.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Monster Grain</title><link href="https://music.yanobenel.cf/2021/01/24/Monster-Grain.html" rel="alternate" type="text/html" title="Monster Grain" /><published>2021-01-24T00:00:00+00:00</published><updated>2021-01-24T00:00:00+00:00</updated><id>https://music.yanobenel.cf/2021/01/24/Monster-Grain</id><content type="html" xml:base="https://music.yanobenel.cf/2021/01/24/Monster-Grain.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
@@ -150,42 +185,4 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;Monster OST Anime Starting Theme&lt;/li&gt;
   &lt;li&gt;The Best Starting Song Ever&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Naoki Urasawa</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/Monster.jpeg" /><media:content medium="image" url="https://music.yanobenel.cf/Monster.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Imperial March</title><link href="https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html" rel="alternate" type="text/html" title="The Imperial March" /><published>2020-11-22T00:00:00+01:00</published><updated>2020-11-22T00:00:00+01:00</updated><id>https://music.yanobenel.cf/2020/11/22/The-Imperial-March</id><content type="html" xml:base="https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html">&lt;!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
---&gt;
-&lt;!-- yanobenel --&gt;
-&lt;!-- &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.yanobenel.cf/episodes/The_Imperial_March.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.yanobenel.cf/img/DarthVader.jpg&quot;,&quot;title&quot;:&quot;The Imperial March&quot;,&quot;subtitle&quot;:&quot;The Dark Force Is Always With Me.&quot;,&quot;url&quot;:&quot;https://music.yanobenel.cf/2020/11/22/The-Imperial-March.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
-&lt;/script&gt;
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
-        src=&quot;https://music.yanobenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
-&lt;/script&gt;
- --&gt;
-
-&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
-  &lt;li&gt;The Imperial March SoundTrack Album The Empire Strikes Back (Star Wars) By John Williams&lt;/li&gt;
-  &lt;li&gt;The Dark Force Is Always With Me (Darth Vader)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Younes B</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/DarthVader.jpg" /><media:content medium="image" url="https://music.yanobenel.cf/DarthVader.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Way</title><link href="https://music.yanobenel.cf/2020/11/18/TheWay.html" rel="alternate" type="text/html" title="The Way" /><published>2020-11-18T00:00:00+01:00</published><updated>2020-11-18T00:00:00+01:00</updated><id>https://music.yanobenel.cf/2020/11/18/TheWay</id><content type="html" xml:base="https://music.yanobenel.cf/2020/11/18/TheWay.html">&lt;!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
---&gt;
-&lt;!-- yanobenel --&gt;
-&lt;!-- &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.yanobenel.cf/episodes/TheWay.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.yanobenel.cf/img/TheWay.png&quot;,&quot;title&quot;:&quot;The Way&quot;,&quot;subtitle&quot;:&quot;The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.&quot;,&quot;url&quot;:&quot;https://music.yanobenel.cf/2020/11/18/TheWay.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
-&lt;/script&gt;
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
-        src=&quot;https://music.yanobenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
-&lt;/script&gt;
- --&gt;
-
-&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
-  &lt;li&gt;The Way SoundTrack By r2dr0dn (Ybenel)&lt;/li&gt;
-  &lt;li&gt;Simulating Nintendo 90s PSG Sound Chips&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Younes B</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/TheWay.png" /><media:content medium="image" url="https://music.yanobenel.cf/TheWay.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Naoki Urasawa</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.yanobenel.cf/Monster.jpeg" /><media:content medium="image" url="https://music.yanobenel.cf/Monster.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
